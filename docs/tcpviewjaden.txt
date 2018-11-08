@@ -1,0 +1,95 @@
+[System Process]	0	TCP	desktop-otcmesg.ksd.edu	52519	ec2-52-37-207-140.us-west-2.compute.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-otcmesg.ksd.edu	52520	ec2-52-37-207-140.us-west-2.compute.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-otcmesg.ksd.edu	52525	ec2-52-37-207-140.us-west-2.compute.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-otcmesg.ksd.edu	52536	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-otcmesg.ksd.edu	52557	ec2-52-206-240-19.compute-1.amazonaws.com	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-otcmesg.ksd.edu	52521	server-13-33-144-112.sea4.r.cloudfront.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-otcmesg.ksd.edu	52517	server-13-33-138-211.sea4.r.cloudfront.net	https	TIME_WAIT	2	77								
+firefox.exe	400	TCP	DESKTOP-OTCMESG	50032	localhost	50033	ESTABLISHED			75	75						
+firefox.exe	400	TCP	DESKTOP-OTCMESG	50033	localhost	50032	ESTABLISHED	75	75								
+firefox.exe	2228	TCP	DESKTOP-OTCMESG	50036	localhost	50037	ESTABLISHED										
+firefox.exe	2228	TCP	DESKTOP-OTCMESG	50037	localhost	50036	ESTABLISHED										
+firefox.exe	5364	TCP	DESKTOP-OTCMESG	50038	localhost	50039	ESTABLISHED										
+firefox.exe	5364	TCP	DESKTOP-OTCMESG	50039	localhost	50038	ESTABLISHED										
+firefox.exe	8692	TCP	DESKTOP-OTCMESG	50049	localhost	50050	ESTABLISHED										
+firefox.exe	8692	TCP	DESKTOP-OTCMESG	50050	localhost	50049	ESTABLISHED										
+firefox.exe	6060	TCP	DESKTOP-OTCMESG	50194	localhost	50195	ESTABLISHED										
+firefox.exe	6060	TCP	DESKTOP-OTCMESG	50195	localhost	50194	ESTABLISHED										
+firefox.exe	1044	TCP	DESKTOP-OTCMESG	51366	localhost	51367	ESTABLISHED										
+firefox.exe	1044	TCP	DESKTOP-OTCMESG	51367	localhost	51366	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	51834	ec2-35-164-43-181.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52512	lb-192-30-253-125-iad.github.com	https	ESTABLISHED	1	35	1	31						
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52518	sea15s08-in-f10.1e100.net	https	ESTABLISHED	1	46	1	46						
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52541	185.199.108.153	https	ESTABLISHED	1	46	1	46						
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52556	sea15s08-in-f14.1e100.net	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52573	a23-221-23-197.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52575	152.199.4.33	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52576	152.199.4.33	https	ESTABLISHED	1	46	1	46						
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52580	a23-44-161-156.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52583	wj-in-f154.1e100.net	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52584	151.101.52.133	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52585	40.91.78.9	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52586	a104-68-90-60.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52589	64.4.54.254	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52590	64.4.54.254	https	ESTABLISHED										
+firefox.exe	400	TCP	desktop-otcmesg.ksd.edu	52591	a23-221-23-197.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+lsass.exe	676	TCP	DESKTOP-OTCMESG	49678	DESKTOP-OTCMESG	0	LISTENING										
+lsass.exe	676	TCPV6	desktop-otcmesg	49678	desktop-otcmesg	0	LISTENING										
+NetacadExamPlayer.exe	4164	TCPV6	[0:0:0:0:0:0:0:1]	50467	[0:0:0:0:0:0:0:1]	39000	ESTABLISHED										
+OneDrive.exe	6532	TCP	desktop-otcmesg.ksd.edu	51793	13.89.220.65	https	ESTABLISHED	1	53	1	170						
+PacketTracer7.exe	8348	TCP	DESKTOP-OTCMESG	38000	DESKTOP-OTCMESG	0	LISTENING										
+PacketTracer7.exe	8348	TCP	DESKTOP-OTCMESG	39000	DESKTOP-OTCMESG	0	LISTENING										
+PacketTracer7.exe	8348	TCPV6	desktop-otcmesg	38000	desktop-otcmesg	0	LISTENING										
+PacketTracer7.exe	8348	TCPV6	desktop-otcmesg	39000	desktop-otcmesg	0	LISTENING										
+PacketTracer7.exe	8348	TCPV6	[0:0:0:0:0:0:0:1]	39000	[0:0:0:0:0:0:0:1]	50467	ESTABLISHED										
+services.exe	656	TCP	DESKTOP-OTCMESG	49669	DESKTOP-OTCMESG	0	LISTENING										
+services.exe	656	TCPV6	desktop-otcmesg	49669	desktop-otcmesg	0	LISTENING										
+spoolsv.exe	1804	TCP	DESKTOP-OTCMESG	49667	DESKTOP-OTCMESG	0	LISTENING										
+spoolsv.exe	1804	TCPV6	desktop-otcmesg	49667	desktop-otcmesg	0	LISTENING										
+svchost.exe	904	TCP	DESKTOP-OTCMESG	epmap	DESKTOP-OTCMESG	0	LISTENING										
+svchost.exe	724	TCP	desktop-otcmesg.ksd.edu	5040	DESKTOP-OTCMESG	0	LISTENING										
+svchost.exe	1016	TCP	DESKTOP-OTCMESG	49665	DESKTOP-OTCMESG	0	LISTENING										
+svchost.exe	8	TCP	DESKTOP-OTCMESG	49668	DESKTOP-OTCMESG	0	LISTENING										
+svchost.exe	8	TCP	desktop-otcmesg.ksd.edu	51826	13.89.220.65	https	ESTABLISHED	1	73	1	125						
+svchost.exe	8	TCP	desktop-otcmesg.ksd.edu	52592	65.55.163.80	https	ESTABLISHED										
+svchost.exe	300	UDP	DESKTOP-OTCMESG	ntp	*	*											
+svchost.exe	1668	UDP	desktop-otcmesg.ksd.edu	ssdp	*	*				10	1,350						
+svchost.exe	1668	UDP	DESKTOP-OTCMESG	ssdp	*	*											
+svchost.exe	724	UDP	DESKTOP-OTCMESG	ws-discovery	*	*				7	4,368						
+svchost.exe	1668	UDP	DESKTOP-OTCMESG	ws-discovery	*	*		4	4,960	7	4,368						
+svchost.exe	1668	UDP	DESKTOP-OTCMESG	ws-discovery	*	*											
+svchost.exe	724	UDP	DESKTOP-OTCMESG	ws-discovery	*	*											
+svchost.exe	724	UDP	DESKTOP-OTCMESG	5050	*	*											
+svchost.exe	1068	UDP	DESKTOP-OTCMESG	5353	*	*											
+svchost.exe	1068	UDP	DESKTOP-OTCMESG	llmnr	*	*											
+svchost.exe	8	UDP	DESKTOP-OTCMESG	54423	*	*											
+svchost.exe	1668	UDP	DESKTOP-OTCMESG	54424	*	*											
+svchost.exe	1668	UDP	desktop-otcmesg.ksd.edu	61478	*	*											
+svchost.exe	1668	UDP	DESKTOP-OTCMESG	61479	*	*											
+svchost.exe	724	UDP	DESKTOP-OTCMESG	61480	*	*											
+svchost.exe	1068	UDP	DESKTOP-OTCMESG	62758	*	*											
+svchost.exe	904	TCPV6	desktop-otcmesg	epmap	desktop-otcmesg	0	LISTENING										
+svchost.exe	1016	TCPV6	desktop-otcmesg	49665	desktop-otcmesg	0	LISTENING										
+svchost.exe	8	TCPV6	desktop-otcmesg	49668	desktop-otcmesg	0	LISTENING										
+svchost.exe	300	UDPV6	desktop-otcmesg	123	*	*											
+svchost.exe	1668	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	1668	UDPV6	[fe80:0:0:0:5189:27f6:6784:e6ff]	1900	*	*											
+svchost.exe	724	UDPV6	desktop-otcmesg	3702	*	*											
+svchost.exe	724	UDPV6	desktop-otcmesg	3702	*	*											
+svchost.exe	1668	UDPV6	desktop-otcmesg	3702	*	*											
+svchost.exe	1668	UDPV6	desktop-otcmesg	3702	*	*											
+svchost.exe	1068	UDPV6	desktop-otcmesg	5353	*	*											
+svchost.exe	1068	UDPV6	desktop-otcmesg	5355	*	*											
+svchost.exe	1668	UDPV6	desktop-otcmesg	54425	*	*											
+svchost.exe	1668	UDPV6	[fe80:0:0:0:5189:27f6:6784:e6ff]	61476	*	*											
+svchost.exe	1668	UDPV6	[0:0:0:0:0:0:0:1]	61477	*	*											
+svchost.exe	724	UDPV6	desktop-otcmesg	61481	*	*											
+System	4	TCP	desktop-otcmesg.ksd.edu	netbios-ssn	DESKTOP-OTCMESG	0	LISTENING										
+System	4	TCP	DESKTOP-OTCMESG	microsoft-ds	DESKTOP-OTCMESG	0	LISTENING										
+System	4	TCP	DESKTOP-OTCMESG	wsd	DESKTOP-OTCMESG	0	LISTENING										
+System	4	UDP	desktop-otcmesg.ksd.edu	netbios-ns	*	*		3	150	12	600						
+System	4	UDP	desktop-otcmesg.ksd.edu	netbios-dgm	*	*											
+System	4	TCPV6	desktop-otcmesg	microsoft-ds	desktop-otcmesg	0	LISTENING										
+System	4	TCPV6	desktop-otcmesg	wsd	desktop-otcmesg	0	LISTENING										
+wininit.exe	516	TCP	DESKTOP-OTCMESG	49664	DESKTOP-OTCMESG	0	LISTENING										
+wininit.exe	516	TCPV6	desktop-otcmesg	49664	desktop-otcmesg	0	LISTENING										
